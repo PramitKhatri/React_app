@@ -1,0 +1,19 @@
+.custom-nav{
+background-color: #232f3e !important;
+}
+.custom-nav .nav-link{
+color: white;
+}
+header{
+  background: linear-gradient(45deg,blue,darkblue);
+}
+header span{
+  color: #e1dada;
+}
+
+
+
+.carousel-item img{
+  height: 500px;
+  object-fit: cover;
+}

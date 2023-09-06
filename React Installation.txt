@@ -1,0 +1,30 @@
+install node.js
+create a folder
+-go into the folder and opent the terminal
+-type= npx create-react-app "app name"  //appname can be whatever you want, remove the quataions
+
+
+click y
+
+-type = cd "app name"
+-type=  npm start
+
+if you get any error try upgrading npm 
+-npm install -g npm@latest
+
+if it shows warning on tar version
+-npm install -g tar@latest
+
+install redux
+-go to react app folder, here ours is my-app
+-open termial
+-type npm install redux react-redux   //redux and react-redux are separate and can be installed separately, here we do it at once with a 								space between them
+
+
+
+
+
+go to formik.org
+
+in termial: npm install formik yup
+   //this is for form validation in signups and login

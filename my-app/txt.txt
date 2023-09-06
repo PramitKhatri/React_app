@@ -1,0 +1,4 @@
+Install the extention es7 +react/redux/React-Native snippets 
+
+-go to src, create a js file
+-type = rfce and hit enter
